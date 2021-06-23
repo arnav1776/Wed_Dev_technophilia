@@ -83,3 +83,39 @@ main{
     max-width: 400px;
 }
 
+#right-section{
+    align-self: flex-start;
+    color: #333;
+    margin-left: 4em;
+}
+
+.input-group{
+    width: 180px;
+    font-size: 18px;
+    padding: 8px 10px;
+    border-radius: 5px;
+    border: 1px solid #ccd0d5;
+    color: #1c1e21;
+    margin: 0.2em;
+}
+
+.input-group-full{
+    width: 393px !important;
+    
+}
+
+.subtitle{
+    color: #90949c;
+    font-size: 16px;
+    font-weight: bold;
+    margin: 3% 0;
+}
+
+select{
+    font-size: 13px;
+    height: 30px;
+    padding: 5px;
+    background-color: #fff;
+    color: #1c1e21;
+    border: 1px solid #ccd0d5;
+}
