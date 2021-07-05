@@ -1,5 +1,10 @@
 #main-head{
     height: calc(100vh - 54px);
-    background-image: url("https://png.pngtree.com/thumb_back/fh260/background/20190221/ourmid/pngtree-japanese-poster-japan-tourism-japanese-zephyr-image_16665.jpg");
+    background-image: url("https://wallpapercave.com/wp/wp4047763.jpg");
     background-size: 50%;
+}
+
+.page-section{
+    padding: 6rem 0;
+    
 }
