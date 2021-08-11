@@ -45,8 +45,8 @@ function greeting(yourName) {
     console.log(result);
 }
 
-var Name = prompt('What is your name?');
-greeting(Name);
+//var Name = prompt('What is your name?');
+//greeting(Name);
 
 // arguments
 
@@ -56,5 +56,19 @@ function sumNum(a, b) {
 }
 sumNum(3, 5);
 //sumNum('Hello ' + 'arnav ');
+
+// While Loops
+var n = 0;
+
+while (n < 100) {
+    n += 1;
+    console.log(n);
+}
+
+// for loop
+for (let n = 0; n < 100; n++) {
+    console.log(n);
+}
+
 
 
