@@ -58,17 +58,47 @@ sumNum(3, 5);
 //sumNum('Hello ' + 'arnav ');
 
 // While Loops
-var n = 0;
+// var n = 0;
 
-while (n < 100) {
-    n += 1;
-    console.log(n);
-}
+// while (n < 100) {
+//     n += 1;
+//     console.log(n);
+// }
 
 // for loop
-for (let n = 0; n < 100; n++) {
-    console.log(n);
-}
+// for (let n = 0; n < 100; n++) {
+//     console.log(n);
+// }
+
+// Data types
+var yourAge = 18;
+let yourName = 'Bob';
+let name = {first: 'Jane', last: 'Doe'};
+let truth = false;
+let groceries = ['apple', 'banana', 'oranges'];
+let random
+let nothing = null;
+
+// Strings
+let fruit = 'banana';
+let morefruits = 'banana\napple';
+
+console.log(morefruits);
+console.log(fruit.length);
+console.log(fruit.indexOf('nan'));
+console.log(fruit.slice(2, 6));
+console.log(fruit.replace('ban', '123'));
+console.log(fruit.toUpperCase());
+console.log(fruit.toLowerCase());
+console.log(fruit.charAt(2));
+console.log(fruit[2]);
+console.log(fruit.split(''));
+console.log(fruit.split(','));
+
+
+
+
+
 
 
 
